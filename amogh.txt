@@ -1,1 +1,4 @@
 This is file creating by amogh
+this is second line writing before pull
+this file is in remote repo
+this file will pull by local repo
